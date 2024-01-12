@@ -1,8 +1,11 @@
 ---
 title: What are we doing?
 date: 2024-01-12
-tags: ["hugo","blog"]
-image : "/img/posts/img-2.jpg"
-Description  : "It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub..."
+author: "Aerith Netzer"
+tags: ["Open Homework Systems","Welcome"]
+image : "/img/posts/womanReading.jpg"
+Description  : "So, what's going on here?"
 featured: true
 ---
+
+We are building a website for the Open Homework Systems project. This is a collaboration with several Big Ten Academic Alliance Schools to investigate open-source homework systems. The project is generously funded by the Institute of Museum and Library Services (IMLS).
