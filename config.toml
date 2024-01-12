@@ -79,20 +79,9 @@ description="Your can add your website description here."
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 3
-
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
 
 [[menu.main]]
     name = "About"
