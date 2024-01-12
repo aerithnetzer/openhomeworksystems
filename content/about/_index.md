@@ -1,15 +1,39 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "About The Open Homework Systems Project"
 ---
 
-I am Bino Kochumol Varghese.
+The Open Homework Systems project is a collaboration with several Big Ten Academic Alliance Schools to investigate open-source homework systems. The project is generously funded by the Institute of Museum and Library Services (IMLS).
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+## Our Team
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+### Pennsylvania State University
 
+- Bryan McGeary, Learning Design & Open Education Engagement Librarian​
+- Corey Wetherington, Open Education Infrastructure Specialist​
+- Sijie Yu, Graduate Assistant​
 
+### University of Minnesota
 
+- Shane Nackerud, Director of Course Materials Services​
+- Micah Gjeltema, Open Education and Affordable Content Librarian
 
+### Northwestern University​
+
+- Lauren McKeen McDonald, Open Education Librarian​
+- Aerith Netzer, Digital Publishing and Repository Librarian
+
+## Advisory Board
+
+- David Ernst​, Director of the Center for Open Education at the University of Minnesota and Executive Director of the Open Education Network​
+
+- Clint Lalonde​, Director of Open Education at BCcampus​
+
+- Stephanie Westcott, Open and Sustainable Learning Coordinator VIVA​
+
+- Amanda Larson​, Affordable Learning Instructional Consultant at Ohio State University​
+
+- Dan Coughlin​, Head of Libraries Strategic Technologies at Penn State University​
+
+- Victoria Getis​, Director of Teaching and Learning Technologies at Northwestern University
