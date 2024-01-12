@@ -58,7 +58,7 @@
         <div class="row no-gutters">
           <div class="col-md-2 ">
             <div class="card-body ">
-              {{ $image := resources.Get "/img/aerith-about-small.jpg" }}
+              {{ $image := resources.Get .Params.AuthorImage }}
               <img src="{{ $image.RelPermalink }}" class="img-responsive img-50 img-round" alt="">
             </div>
           </div>
@@ -76,8 +76,8 @@
                 {{ end }}
 
               </p>
-              {{ if .Site.Params.authorInfo }}
-              <p class="card-text fs-6  m-0">{{ .Site.Params.authorInfo | safeHTML }}</p>
+              {{ if .Params.authorInfo }}
+              <p class="card-text fs-6  m-0">{{ .Params.authorInfo | safeHTML }}</p>
               {{ end }}
             </div>
           </div>

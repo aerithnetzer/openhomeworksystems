@@ -5,6 +5,8 @@ author: "Aerith Netzer"
 tags: ["Open Homework Systems","Welcome"]
 image : "/img/posts/womanReading.jpg"
 Description  : "So, what's going on here?"
+authorInfo: "Aerith Netzer is a Digital Publishing and Repository Librarian at Northwestern University Libraries."
+authorImage : "/img/aerith-about-small.jpg"
 featured: true
 ---
 
